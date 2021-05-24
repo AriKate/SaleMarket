@@ -1,0 +1,19 @@
+.info-text{
+    width: 50%;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+/* media */
+
+@media (max-width:800px){
+    .info-text{
+        width: 80%;
+    }
+}
+@media (max-width:500px){
+    .info-text{
+        width: 90%;
+    }
+}
